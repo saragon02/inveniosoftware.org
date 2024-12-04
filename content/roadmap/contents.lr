@@ -1,5 +1,5 @@
-_model: Roadmap
+_model: redirect
 ---
-_template: roadmap.html
+target: /products/rdm/roadmap
 ---
-title: Roadmap
+_discoverable: no
